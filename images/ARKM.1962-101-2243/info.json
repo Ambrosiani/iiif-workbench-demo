@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 94,
+    "height" : 67
+  }, {
+    "width" : 188,
+    "height" : 134
+  }, {
+    "width" : 375,
+    "height" : 267
+  }, {
+    "width" : 750,
+    "height" : 533
+  }, {
+    "width" : 1500,
+    "height" : 1066
+  }, {
+    "width" : 3000,
+    "height" : 2132
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3000,
+  "@id" : "https://Ambrosiani.github.io/iiif-workbench-demo/images/ARKM.1962-101-2243",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2132
+}
